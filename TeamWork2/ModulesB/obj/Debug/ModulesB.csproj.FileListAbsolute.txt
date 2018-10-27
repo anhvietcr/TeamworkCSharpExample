@@ -1,0 +1,10 @@
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\obj\Debug\ModulesB.csprojAssemblyReference.cache
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\obj\Debug\ModulesB.frmHocVien.resources
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\obj\Debug\ModulesB.Properties.Resources.resources
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\obj\Debug\ModulesB.csproj.GenerateResource.cache
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\obj\Debug\ModulesB.csproj.CoreCompileInputs.cache
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\bin\Debug\ModulesB.exe.config
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\bin\Debug\ModulesB.exe
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\bin\Debug\ModulesB.pdb
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\obj\Debug\ModulesB.exe
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWork2\ModulesB\obj\Debug\ModulesB.pdb

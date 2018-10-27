@@ -1,0 +1,12 @@
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\bin\Debug\FrmMain.exe.config
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\bin\Debug\FrmMain.exe
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\bin\Debug\FrmMain.pdb
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.FrmMain.resources
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.csproj.GenerateResource.cache
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.csproj.CoreCompileInputs.cache
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.exe
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.pdb
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.csprojAssemblyReference.cache
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.frmGiaoVien.resources
+D:\Anhvietcr\Coding\CSharp\Project\TeamWorkExample\TeamWorkFinal\FrmMain\obj\Debug\FrmMain.frmHocVien.resources
